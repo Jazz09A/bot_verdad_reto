@@ -1,4 +1,4 @@
-```markdown
+
 # Bot de Verdad o Reto para Telegram
 
 Este es un bot de Telegram que permite jugar al clásico juego de "Verdad o Reto" con tus amigos. Los jugadores pueden unirse al juego, elegir entre preguntas de verdad o retos, y disfrutar de una experiencia interactiva a través de botones.
@@ -65,7 +65,7 @@ Si deseas contribuir al proyecto, siéntete libre de abrir un "issue" o enviar u
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-```
+
 
 ### Cambios importantes:
 1. **Configuración**: Se añadió información sobre cómo crear el archivo `.env` y configurar el token del bot.
