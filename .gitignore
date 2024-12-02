@@ -1,0 +1,4 @@
+.venv
+config.py
+verdades_y_retos.json
+__pycache__
